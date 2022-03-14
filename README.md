@@ -1,6 +1,6 @@
 ### Hi there! I am Ömer👋 ![](https://komarev.com/ghpvc/?username=your-github-omeerdvrn)
 
---> I am currently working at Gameflex as a Unity Game Developer. <img src="https://user-images.githubusercontent.com/54485510/158254204-01958ada-66b7-49ed-a746-ee46f1afe802.png" width="50" height="38">
+--> I am currently working at Gameflex as Unity Game Developer. <img src="https://user-images.githubusercontent.com/54485510/158254204-01958ada-66b7-49ed-a746-ee46f1afe802.png" width="50" height="38">
 
 
 I love learning:
