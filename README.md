@@ -4,6 +4,6 @@
 
 
 I love learning:
-  - <img src="https://user-images.githubusercontent.com/54485510/158256492-ff298981-3e0e-457f-9b13-d92d8ec4bd0f.png" width="100" height="38">
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="70" height="70">
-  - <img src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" width="100" height="66">
+  - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="100" height="38">
+  - <img src="https://e7.pngegg.com/pngimages/762/331/png-clipart-go-programming-language-computer-programming-programmer-programming-language-miscellaneous-computer-program.png" width="70" height="70">
+  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXcL7PRG7TwqvNY2YGdxAdgFPSJMai1c5YJTeVte5&s">
