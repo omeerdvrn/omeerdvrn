@@ -1,9 +1,25 @@
-### Hi there! I am Ömer👋 ![](https://komarev.com/ghpvc/?username=your-github-omeerdvrn)
+<h1 align="center">Hi 👋, I'm Omer</h1>
+<h3 align="center">A passionate software developer from Turkiye.</h3>
 
---> I am currently working at Gameflex as Unity Game Developer. <img src="https://user-images.githubusercontent.com/54485510/158254204-01958ada-66b7-49ed-a746-ee46f1afe802.png" width="50" height="38">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omeerdvrn&label=Profile%20views&color=0e75b6&style=flat" alt="omeerdvrn" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omeerdvrn" alt="omeerdvrn" /></a> </p>
 
-I love learning:
-  - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="100" height="38">
-  - <img src="https://e7.pngegg.com/pngimages/762/331/png-clipart-go-programming-language-computer-programming-programmer-programming-language-miscellaneous-computer-program.png" width="70" height="70">
-  - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXcL7PRG7TwqvNY2YGdxAdgFPSJMai1c5YJTeVte5&s">
+- 🔭 I’m currently working at **Gameflex as a Unity Game Developer.**
+
+- 🌱 I’m currently learning **SpringBoot framework and React.js**
+
+- 💬 Ask me about **Unity and C#**
+
+- 📫 How to reach me **omeerdvrn@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omeerdvrn&show_icons=true&locale=en&layout=compact" alt="omeerdvrn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omeerdvrn&show_icons=true&locale=en" alt="omeerdvrn" /></p>
