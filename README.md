@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working at Gameflex **as a Unity Game Developer**
 
-- 🌱 I’m currently learning **Java SpringBoot framework and React.js**
-
-- 💬 Ask me about **Unity and C#**
-
 - 📫 How to reach me **omeerdvrn@gmail.com**
 
 - ⚡ Fun fact **I am a dog person.**
