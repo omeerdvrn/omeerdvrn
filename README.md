@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at Gameflex **as a Full Stack Developer**
 
-- 🌱 I’m currently learning **Node, Vue, Spring**
+- 🌱 I’m currently learning **Playwright**
 
 - 📫 How to reach me **omeerdvrn@gmail.com**
 
